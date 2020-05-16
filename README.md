@@ -22,7 +22,7 @@ The whole project was divided into four parts:
 
 ### Want to read more?
 You can find the corresponding blog post here:
-https://medium.com/@tobias.gorgs/how-to-use-machine-learning-for-customer-acquisition-bcd52f42042d
+https://link.medium.com/w4qsNDFx6
 
 You can find the results of the Kaggle competition here:
 https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard
